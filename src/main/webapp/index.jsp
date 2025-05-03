@@ -8,6 +8,6 @@
 </head>
 <body>
   <h1>I am suraj</h1>
-  <h1 href="about.jsp">Click here</h1>
+  <a href="about.jsp">Click here </a>
 </body>
 </html>
