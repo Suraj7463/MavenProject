@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-  <h1>I am suraj</h1>
-  <h1 href="about.jsp">Click here</h1>
+  <h1>This is about page</h1>
 </body>
 </html>
